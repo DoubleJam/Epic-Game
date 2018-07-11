@@ -1,0 +1,11 @@
+C:\Users\Username\Google Drive\Visual Studio\Skoj\Epic Game\Epic Game\bin\Debug\Epic Game.exe.config
+C:\Users\Username\Google Drive\Visual Studio\Skoj\Epic Game\Epic Game\bin\Debug\Epic Game.exe
+C:\Users\Username\Google Drive\Visual Studio\Skoj\Epic Game\Epic Game\bin\Debug\Epic Game.pdb
+C:\Users\Username\Google Drive\Visual Studio\Skoj\Epic Game\Epic Game\obj\Debug\Epic_Game.Form1.resources
+C:\Users\Username\Google Drive\Visual Studio\Skoj\Epic Game\Epic Game\obj\Debug\Epic_Game.Launcher.resources
+C:\Users\Username\Google Drive\Visual Studio\Skoj\Epic Game\Epic Game\obj\Debug\Epic_Game.Resource1.resources
+C:\Users\Username\Google Drive\Visual Studio\Skoj\Epic Game\Epic Game\obj\Debug\Epic Game.csproj.GenerateResource.Cache
+C:\Users\Username\Google Drive\Visual Studio\Skoj\Epic Game\Epic Game\obj\Debug\Epic Game.exe
+C:\Users\Username\Google Drive\Visual Studio\Skoj\Epic Game\Epic Game\obj\Debug\Epic Game.pdb
+C:\Users\Username\Google Drive\Visual Studio\Skoj\Epic Game\Epic Game\obj\Debug\Epic_Game.Properties.Resources.resources
+C:\Users\Username\Google Drive\Visual Studio\Skoj\Epic Game\Epic Game\obj\Debug\Epic Game.csprojResolveAssemblyReference.cache
